@@ -1,4 +1,12 @@
 Paolo 4
+Monde 3
+Flavius 2
+Boss 2
+Sofia 2
 Lucia 1
 Mario 1
+AAAA 1
 Giuseppe 0
+Zebby 0
+
+p 2
